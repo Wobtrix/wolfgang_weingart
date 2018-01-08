@@ -3,6 +3,7 @@ body{
 	width:100%;
 	margin:0;
 	padding:0;
+	background-image: url("wolfgang_weingart/images/untitled_2.jpg");
 	}
 
 article{
@@ -117,8 +118,4 @@ p1{
 
 blockquote{
     color:firebrick
-}
-
-body {
-    background-image: url("/images/untitled_2.jpg");
 }
